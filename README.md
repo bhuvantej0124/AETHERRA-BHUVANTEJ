@@ -45,11 +45,11 @@ Methodology
 1. Identification of unsafe manual cleaning practices
 2. System design using tripod, pulley, motor, and grabber
 3. Selection of lightweight and corrosion-resistant materials
-4.Assembly of mechanical and lifting components
-5.Installation over the manhole with proper alignment
-6.Motorized or manual lifting for waste removal
-7.Load testing and safety evaluation
-8.Performence assessment based on efficiency and ease of use
+4. Assembly of mechanical and lifting components
+5. Installation over the manhole with proper alignment
+6. Motorized or manual lifting for waste removal
+7. Load testing and safety evaluation
+8. Performence assessment based on efficiency and ease of use
 
 Feasibility and Viability
 
