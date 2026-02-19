@@ -1,14 +1,14 @@
 SEMI - AUTOMATIC MANHOLE CLEANING MACHINE 
-OVER VIEW 
+
+OVERVIEW 
+
 The semi-automatic maanhole cleaning Machine is safety-focused engineering solution devoloped to eleminate hazardoud manual manhole cleaning practices. 
-The system enables remote removal of sludges and debris from manholes without human entry, ensuring improved safety, dignity, and efficiency for sanitation workers
-This project was devoloped as part of the SAMVED Hackathon 2026 under the themes Safety & Assistance for Sanitation Workers.
-Safety & Assistance for Sanitation Workers Technology-enabled safety systems, alerts, health monitoring, and workflow optimization for sanitation workers operating in hazardous environments.
-Manual manholoe cleaning exposes sanitation workers to toxic gases, infection, and life- threatening banning manual scavenging, unsafecleaning practice still exist due to lake of affordable and practical mechanized solution.
-Safety & Assistance for Sanitatiom Workers Technology-enabled safety system, alerts, health monitoring, and workflow optimization for sanitary workers operatingin haradous environments.
+
+The system enables remote removal of sludges and debris from manholes without human entry, ensuring improved safety, dignity, and efficiency for sanitation workers This project was devoloped as part of the SAMVED Hackathon 2026 under the themes Safety & Assistance for Sanitation Workers. Safety & Assistance for Sanitation Workers Technology-enabled safety systems, alerts, health monitoring, and workflow optimization for sanitation workers operating in hazardous environments. Manual manholoe cleaning exposes sanitation workers to toxic gases, infection, and life- threatening banning manual scavenging, unsafecleaning practice still exist due to lake of affordable and practical mechanized solution. Safety & Assistance for Sanitatiom Workers Technology-enabled safety system, alerts, health monitoring, and workflow optimization for sanitary workers operatingin haradous environments.
+
 The proposed Semi-Automatic Manhole Cleaning Machine is a portable system consisting of:
-A stable tripod structure
-pulley and cable lifting machanism
+
+A stable tripod structure pulley and cable lifting machanism
 Hand-crank or electric winch
 clamshell grabber for waste extraction
 The system allows sanitationj workers to remove
